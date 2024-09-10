@@ -1,5 +1,5 @@
 # 3057MainSt
-Managing my home renovations, repairs and maintenence as a software project. [#HowBuildingsLearn](https://www.amazon.com/How-Buildings-Learn-Happens-Theyre/dp/0140139966)
+Managing my home renovations and maintenence as a software project. [#HowBuildingsLearn](https://www.amazon.com/How-Buildings-Learn-Happens-Theyre/dp/0140139966)
 
 I encourage you to keep a repo of your dwelling(s). Keep diagrams, project quotes, garden plans, home repairs, and other related items that you and future owners can use, learn and measure from. File issues. Use Project kanbans to manage projects. Encourage Your family to join in.
 
